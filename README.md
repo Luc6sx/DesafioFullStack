@@ -55,3 +55,12 @@ Responsividade: Ao testar a aplicação em diferentes telas, notei que as tabela
 Desenvolvimento Fullstack (API): A etapa mais desafiadora e de maior aprendizado foi a implementação da API para conectar o frontend ao backend. Após diversas tentativas, a solução foi criar um novo projeto com a estrutura correta (Cliente, Servidor e Compartilhado) e migrar o código já existente. Com a ajuda do meu irmão, consegui refazer o backend do zero, compreendendo na prática a comunicação entre os projetos e finalmente fazendo a tabela ser preenchida através da API.
 
 Superação e Crescimento: Durante o processo, a tensão e o medo de ser julgado trouxeram alguns bloqueios momentâneos, mas a persistência e a ajuda recebida foram fundamentais para superá-los. Ver a tabela finalmente aparecer na tela, preenchida com os dados vindos da API, foi um momento de grande satisfação e a consolidação de todo o aprendizado.
+
+
+
+COMO INICIALIZAR O PROJETO:
+ irá abrir o terminal nass pastas "DesafioFullStackAPI" e "DesafioFullStackFront"
+ pode utilizar o comando "cd" no terminal até o diretorio da pasta ou abrir diretamente o terminal nelas
+ após isso irá no terminal de DesafioFullStackAPI e digitar "dotnet run" para poder inicializar a API
+ após isso irá fazer o mesmo no  terminal de DesafioFullStackFront
+ ele irá gerar um link de localhost com uma porta, celecione ela no terminal e aperte o botão direito para copiar (pois se dar ctrl + C irá finalizar o projeto) e copie no seu navegador para abrir o site
