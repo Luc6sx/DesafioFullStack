@@ -64,3 +64,8 @@ COMO INICIALIZAR O PROJETO:
  após isso irá no terminal de DesafioFullStackAPI e digitar "dotnet run" para poder inicializar a API
  após isso irá fazer o mesmo no  terminal de DesafioFullStackFront
  ele irá gerar um link de localhost com uma porta, celecione ela no terminal e aperte o botão direito para copiar (pois se dar ctrl + C irá finalizar o projeto) e copie no seu navegador para abrir o site
+
+
+ Para o design da interface, a decisão foi aproveitar a arquitetura sólida e bem-estruturada oferecida pelo template padrão do Blazor, que já fornece uma base excelente para a aplicação.
+A identidade visual foi inspirada no universo do automobilismo, com a escolha de uma paleta de cores clássica em vermelho e branco, remetendo diretamente à estética da Fórmula 1 para criar uma experiência temática.
+O framework Bootstrap foi utilizado de forma pontual e estratégica, com o objetivo principal de garantir a responsividade da tabela de dados (.table-responsive), resolvendo de maneira eficaz a quebra de layout em dispositivos móveis.
