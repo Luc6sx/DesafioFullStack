@@ -36,13 +36,6 @@ Organização do Código: O código foi componentizado, separando a lógica da p
 
 *Requisitos Adicionais (Pontos Extras)*
 
-Design e UX: A interface foi estilizada com uma temática de automobilismo, utilizando uma paleta de cores com vermelho e branco.
- 
-
-Animações Sutis: Foi adicionada uma animação em CSS para o carregamento dos cards, melhorando a experiência do usuário.
-
-
-
 Persistência de Dados (Fullstack): Foi criada uma API backend em ASP.NET Core para servir os dados do arquivo JSON, cumprindo o requisito fullstack para Blazor WebAssembly.
 
 Responsividade Avançada: Foi implementada uma solução para a quebra de tabelas em telas de dispositivos móveis, garantindo uma boa experiência em diferentes tamanhos de tela.
