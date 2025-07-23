@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "DesafioFullStackAPI.Controllers.PilotosController",
+    "Method": "GetPilotos",
+    "RelativePath": "api/Pilotos/piloto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

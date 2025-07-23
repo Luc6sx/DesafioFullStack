@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\pages\\cardpilotos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:pages\\cardpilotos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\pages\\ranking.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:pages\\ranking.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\pages\\ranking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:pages\\ranking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\models\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:models\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\context\\pilotocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:context\\pilotocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\models\\sexopiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:models\\sexopiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\models\\categoriapiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:models\\categoriapiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackfront\\models\\grupopilotokey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0D608CD-F29D-4F2C-BDC0-CF6F6B8CE5DB}|DesafioFullStackFront.csproj|solutionrelative:models\\grupopilotokey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matto\\source\\repos\\DFS\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD.Client\\Routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-23T15:12:41.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardPilotos.razor",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Pages\\CardPilotos.razor",
+              "RelativeDocumentMoniker": "Pages\\CardPilotos.razor",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Pages\\CardPilotos.razor",
+              "RelativeToolTip": "Pages\\CardPilotos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T19:05:07.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ranking.razor",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Pages\\Ranking.razor",
+              "RelativeDocumentMoniker": "Pages\\Ranking.razor",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Pages\\Ranking.razor",
+              "RelativeToolTip": "Pages\\Ranking.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T19:07:13.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ranking.razor.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Pages\\Ranking.razor.cs",
+              "RelativeDocumentMoniker": "Pages\\Ranking.razor.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Pages\\Ranking.razor.cs",
+              "RelativeToolTip": "Pages\\Ranking.razor.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:09:36.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T10:48:16.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Piloto.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Models\\Piloto.cs",
+              "RelativeDocumentMoniker": "Models\\Piloto.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Models\\Piloto.cs",
+              "RelativeToolTip": "Models\\Piloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:05:57.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PilotoContext.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Context\\PilotoContext.cs",
+              "RelativeDocumentMoniker": "Context\\PilotoContext.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Context\\PilotoContext.cs",
+              "RelativeToolTip": "Context\\PilotoContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:30:01.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T19:09:01.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:21:32.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SexoPiloto.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Models\\SexoPiloto.cs",
+              "RelativeDocumentMoniker": "Models\\SexoPiloto.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Models\\SexoPiloto.cs",
+              "RelativeToolTip": "Models\\SexoPiloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:05:58.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriaPiloto.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Models\\CategoriaPiloto.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriaPiloto.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Models\\CategoriaPiloto.cs",
+              "RelativeToolTip": "Models\\CategoriaPiloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:05:49.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Routes.razor",
+              "RelativeDocumentMoniker": "Routes.razor",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Routes.razor",
+              "RelativeToolTip": "Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T11:21:32.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GrupoPilotoKey.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Models\\GrupoPilotoKey.cs",
+              "RelativeDocumentMoniker": "Models\\GrupoPilotoKey.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackFront\\Models\\GrupoPilotoKey.cs",
+              "RelativeToolTip": "Models\\GrupoPilotoKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:05:54.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DFS\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD.Client\\Routes.razor",
+              "RelativeDocumentMoniker": "..\\..\\DFS\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD.Client\\Routes.razor",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DFS\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD.Client\\Routes.razor",
+              "RelativeToolTip": "..\\..\\DFS\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD\\DesafioFullStack.CRUD.Client\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-22T19:04:31.893Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

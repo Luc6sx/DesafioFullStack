@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\models\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:models\\piloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\dados\\pilotos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:dados\\pilotos.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\models\\categoriapiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:models\\categoriapiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\models\\sexopiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:models\\sexopiloto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\models\\grupopilotokey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:models\\grupopilotokey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\services\\pilotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:services\\pilotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\controllers\\pilotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:controllers\\pilotoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|c:\\users\\matto\\source\\repos\\desafiofullstack-completo\\desafiofullstackapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{631AD846-27EA-4AF1-9E71-28ED6B390D04}|DesafioFullStackAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Piloto.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Models\\Piloto.cs",
+              "RelativeDocumentMoniker": "Models\\Piloto.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Models\\Piloto.cs",
+              "RelativeToolTip": "Models\\Piloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:23:02.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pilotos.json",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Dados\\Pilotos.json",
+              "RelativeDocumentMoniker": "Dados\\Pilotos.json",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Dados\\Pilotos.json",
+              "RelativeToolTip": "Dados\\Pilotos.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T19:23:11.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SexoPiloto.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Models\\SexoPiloto.cs",
+              "RelativeDocumentMoniker": "Models\\SexoPiloto.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Models\\SexoPiloto.cs",
+              "RelativeToolTip": "Models\\SexoPiloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:26:18.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaPiloto.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Models\\CategoriaPiloto.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriaPiloto.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Models\\CategoriaPiloto.cs",
+              "RelativeToolTip": "Models\\CategoriaPiloto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:05:25.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GrupoPilotoKey.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Models\\GrupoPilotoKey.cs",
+              "RelativeDocumentMoniker": "Models\\GrupoPilotoKey.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Models\\GrupoPilotoKey.cs",
+              "RelativeToolTip": "Models\\GrupoPilotoKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T20:26:17.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:12:36.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PilotoService.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Services\\PilotoService.cs",
+              "RelativeDocumentMoniker": "Services\\PilotoService.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Services\\PilotoService.cs",
+              "RelativeToolTip": "Services\\PilotoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T19:14:42.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:10:29.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PilotosController.cs",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Controllers\\PilotosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PilotosController.cs",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\Controllers\\PilotosController.cs",
+              "RelativeToolTip": "Controllers\\PilotosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:49:53.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\matto\\source\\repos\\DesafioFullStack-Completo\\DesafioFullStackAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T19:12:32.331Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

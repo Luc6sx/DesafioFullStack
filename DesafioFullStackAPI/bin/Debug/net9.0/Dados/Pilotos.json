@@ -1,0 +1,52 @@
+﻿[
+    {
+        "Nome": "Ayrton Senna",
+        "Equipe": "McLaren",
+        "MelhorVolta": "00:01:18.456",
+        "Peso": 75.5,
+        "Categoria": "Formula1",
+        "Sexo": "Masculino",
+        "Nacionalidade": "Brasil",
+        "Tracado": "Interlagos"
+    },
+    {
+        "Nome": "Lewis Hamilton",
+        "Equipe": "Mercedes",
+        "MelhorVolta": "00:01:17.987",
+        "Peso": 76.0,
+        "Categoria": "Formula1",
+        "Sexo": "Masculino",
+        "Nacionalidade": "Inglaterra",
+        "Tracado": "Interlagos"
+    },
+    {
+        "Nome": "Tatiana Calderon",
+        "Equipe": "Richard Mille Racing",
+        "MelhorVolta": "00:02:02.500",
+        "Peso": 65.0,
+        "Categoria": "Endurance",
+        "Sexo": "Feminino",
+        "Nacionalidade": "Colômbia",
+        "Tracado": "Spa-Francorchamps"
+    },
+    {
+        "Nome": "Sophia Flörsch",
+        "Equipe": "Algarve Pro Racing",
+        "MelhorVolta": "00:02:03.100",
+        "Peso": 64.0,
+        "Categoria": "Endurance",
+        "Sexo": "Feminino",
+        "Nacionalidade": "Alemanha",
+        "Tracado": "Spa-Francorchamps"
+    },
+    {
+        "Nome": "Rubens Barrichello",
+        "Equipe": "Full Time Sports",
+        "MelhorVolta": "00:01:40.123",
+        "Peso": 80.0,
+        "Categoria": "StockCar",
+        "Sexo": "Masculino",
+        "Nacionalidade": "Brasil",
+        "Tracado": "Interlagos"
+    }
+]

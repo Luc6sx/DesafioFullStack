@@ -1,0 +1,89 @@
+
+@using DesafioFullStackFront.Models
+
+
+@using System.Text.Json
+@using System.Text.Json.Serialization
+
+@page "/"
+@page "/ranking"
+
+
+@inject HttpClient Http
+
+
+
+<h3> Ranking de volta mais rápido</h3>
+
+<div class="row mb-4">
+	<div class="col-md-3">
+		<label>Categoria</label>
+		<select class="form-select" @bind="filtroCategoria" @bind:after="AplicarFiltros">
+			<option value="">Todas as Categorias</option>
+			@foreach (var categoria in Enum.GetValues<CategoriaPiloto>())
+			{
+				<option value="@categoria">@categoria</option>
+			}
+		</select>
+	</div>
+
+	<div class="col-md-3">
+		<label>Sexo</label>
+		<select class="form-select" @bind="filtroSexo" @bind:after="AplicarFiltros">
+			<option value="">Todos os Sexos</option>
+			@foreach (var sexo in Enum.GetValues<SexoPiloto>())
+			{
+				<option value="@sexo">@sexo</option>
+			}
+		</select>
+	</div>
+
+	<div class="col-md-3">
+		<label>Traçado</label>
+		<select class="form-select" @bind="filtroTracado" @bind:after="AplicarFiltros">
+			<option value="">Todos os Traçados</option>
+			@if (todosOsPilotos.Any())
+			{
+				@foreach (var tracado in todosOsPilotos.Select(p => p.Tracado).Distinct().OrderBy(t => t))
+				{
+					<option value="@tracado">@tracado</option>
+				}
+			}
+		</select>
+	</div>
+
+	<div class="col-md-3">
+		<label>Classe de Peso</label>
+		<select class="form-select" @bind="filtroPeso" @bind:after="AplicarFiltros">
+			<option value="">Todas as Classes</option>
+			<option value="Leve">Leve (&lt; 70kg)</option>
+			<option value="Medio">Médio (70-80kg)</option>
+			<option value="Pesado">Pesado (&gt; 80kg)</option>
+		</select>
+	</div>
+</div>
+
+<hr />
+
+@if (pilotosFiltrados.Any())
+{
+	@foreach (var grupo in pilotosFiltrados.GroupBy(p => new GrupoPilotoKey(p.Categoria, p.Sexo, p.Tracado)))
+	{
+		//puxa a classe Cardpilotos e faz com que os cards sejam carregados
+		<CardPilotos DataDoGrupo="grupo" />
+	}
+}
+else
+{
+	<p>Nenhum piloto encontrado com os filtros aplicados...</p>
+}
+
+
+@code {
+
+
+	protected override async Task OnInitializedAsync()
+	{
+		Inicializar();	
+	}
+}

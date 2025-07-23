@@ -1,0 +1,6 @@
+@DesafioFullStackAPI_HostAddress = http://localhost:5110
+
+GET {{DesafioFullStackAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
